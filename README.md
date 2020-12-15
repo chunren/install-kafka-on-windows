@@ -28,7 +28,8 @@ To run Apache Kafka on a windows OS, you will need to download , install, and se
   - You can download the Apache Kafka from Apache site ( http://kafka.apache.org/downloads.html)
 
   The following is a list of my downloads.
-![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_downloads_chunren_lai_2020.png)
+ 
+ ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_downloads_chunren_lai_2020.png)
 
 
 ## 3. Install the 7zip and Notepad plus plus
@@ -77,10 +78,12 @@ dataDir=C:/zookeeper-3.6.2/data
 | Item | Value |
 | ------ | ------ |
 | Variable name | ZOOKEEPER_HOME|
-| Variable value | C:\zookeeper-3.6.2 |
+| Variable value | C:\zookeeper-3.6.2 | 
 
-  ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_home_chunren_lai_2020.png)
-2) to add "%ZOOKEEPER_HOME%\bin" new entry to the System Variable "Path"
+![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_home_chunren_lai_2020.png)
+
+ 2) to add "%ZOOKEEPER_HOME%\bin" new entry to the System Variable "Path" 
+
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_home_path_chunren_lai_2020.png)
 - Start the ZooKeeper, by
 1) type "cmd" in the Search area (bottom left side)
@@ -88,7 +91,7 @@ dataDir=C:/zookeeper-3.6.2/data
 ```sh
 cd c:\zookeeper-3.6.2\bin
 ```
-3) type "zkserver", and you will see:
+3) type "zkserver", and you will see: 
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_running_chunren_lai_2020.png)
 
 

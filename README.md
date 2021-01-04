@@ -96,7 +96,7 @@ cd c:\zookeeper-3.6.2\bin
 
 
 ## 6. Install and Set up Kafka
-- Use 7zip to unzip the Kafka's installation file (e.g., "apache-zookeeper-3.6.2-bin.tar.gz"). You will need to unzip it twice to get the original files.
+- Use 7zip to unzip the Kafka's installation file (e.g., "kafka_2.13-2.7.0.tgz"). You will need to unzip it twice to get the original files.
 - After you fully unzip it, you will have a folder like:
 C:\temp\KafkaDownloads\kafka_2.13-2.6.0\kafka_2.13-2.6.0\kafka_2.13-2.6.0
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_unzip_chunren_lai_2020.png)

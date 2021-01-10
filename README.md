@@ -161,4 +161,4 @@ In the consumer command window "C":
 #### Congratulations! You have successfully set up Apache Kafka on your Windows 10.
 
 
-[![](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)
+[[](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)

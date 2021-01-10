@@ -1,7 +1,8 @@
 ![[](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)
 http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0
 a:
-<img src="https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1" />
+<img style="visibility:hidden;display:none;" src="https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1" />
+https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1
 b:
 <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" />
 # How To Set Up Apache Kafka on Window 10

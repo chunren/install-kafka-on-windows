@@ -32,8 +32,6 @@ To run Apache Kafka on a windows OS, you will need to download , install, and se
   The following is a list of my downloads.
  
  ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_downloads_chunren_lai_2020.png)
-
-
 ## 3. Install the 7zip and Notepad plus plus
 You can directly run the executable installer (e.g., "7z1900-x64.exe" and "npp.7.8.8.Installer.x64.exe")
 

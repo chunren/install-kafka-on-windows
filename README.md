@@ -1,10 +1,5 @@
-![[](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)
-http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0
-a:
-<img style="visibility:hidden;display:none;" src="https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1" />
-https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1
-b:
-<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" />
+![[](https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1)](https://chunren.github.io/Angular-Repo-Tracker/repo-tracker/dist/repo-tracker/?repoName=tye-222-jadf&versionNumber=1.0.1)
+
 # How To Set Up Apache Kafka on Window 10
 
 By Chunren Lai, Dec. 12, 2020
@@ -166,6 +161,3 @@ In the consumer command window "C":
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_consumer_window_chunren_lai_2020.png)
 
 #### Congratulations! You have successfully set up Apache Kafka on your Windows 10.
-
-
-![[](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)

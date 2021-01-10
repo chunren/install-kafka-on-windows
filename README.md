@@ -1,9 +1,9 @@
 ![[](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0)
 http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0
 a:
-<img src="http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0">
+<img src="http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.0" />
 b:
-<img src="https://www.googletagmanager.com/gtag/js?id=UA-186977117-1">
+<img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" />
 # How To Set Up Apache Kafka on Window 10
 
 By Chunren Lai, Dec. 12, 2020

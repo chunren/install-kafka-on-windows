@@ -159,3 +159,6 @@ In the consumer command window "C":
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_consumer_window_chunren_lai_2020.png)
 
 #### Congratulations! You have successfully set up Apache Kafka on your Windows 10.
+
+
+[![](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)](http://localhost:4200/?repoName=intall-kafka-on-windows&versionNumber=1.0.1)

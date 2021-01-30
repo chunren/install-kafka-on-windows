@@ -13,7 +13,7 @@ This article lists steps to install and run Apache Kafka on Windows 10.
 [4. Install the Java Runtime](#4-Install-the-Java-Runtime)  
 [5. Install ZooKeeper](#5-Install-ZooKeeper)  
 [6. Install and Set up Kafka](#6-Install-and-Set-up-Kafka)  
-[Step 7. Test Apache Kafka](#7-Test-Apache-Kafka2222)  
+[Step 7. Test Apache Kafka](#Step-7-Test-Apache-Kafka)  
 
 ## 1. Introduction
 To run Apache Kafka on a windows OS, you will need to download , install, and set up Java, ZooKeeper, and Apache Kakfa. After set up the Apache Kafka, we will run some commands to produce and consume some messages on a test topics on Kafka to ensure Apache Kafka is running properly.

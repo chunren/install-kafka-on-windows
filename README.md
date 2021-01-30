@@ -7,18 +7,18 @@ By Chunren Lai, Dec. 12, 2020
 This article lists steps to install and run Apache Kafka on Windows 10.
 
 ## Table of Contents  
-[1. Introduction](#1-Introduction)  
-[2. Download Files](#2-Download-Files)  
-[3. Install the 7zip and Notepad++](#3-Install-the-7zip-and-Notepad-plus-plus)  
-[4. Install the Java Runtime](#4-Install-the-Java-Runtime)  
-[5. Install ZooKeeper](#5-Install-ZooKeeper)  
-[6. Install and Set up Kafka](#6-Install-and-Set-up-Kafka)  
+[Step 1. Introduction](#Step-1-Introduction)  
+[Step 2. Download Files](#Step-2-Download-Files)  
+[Step 3. Install the 7zip and Notepad++](#Step-3-Install-the-7zip-and-Notepad-plus-plus)  
+[Step 4. Install the Java Runtime](#Step-4-Install-the-Java-Runtime)  
+[Step 5. Install ZooKeeper](#Step-5-Install-ZooKeeper)  
+[Step 6. Install and Set up Kafka](#Step-6-Install-and-Set-up-Kafka)  
 [Step 7. Test Apache Kafka](#Step-7-Test-Apache-Kafka)  
 
-## 1. Introduction
+## Step 1. Introduction
 To run Apache Kafka on a windows OS, you will need to download , install, and set up Java, ZooKeeper, and Apache Kakfa. After set up the Apache Kafka, we will run some commands to produce and consume some messages on a test topics on Kafka to ensure Apache Kafka is running properly.
 
-## 2. Download Files
+## STep 2. Download Files
 - Upzip and Text Editor tools  
   - If you don't have 7-zip installed on your windows, you are recommended to download the 7-zip from (https://www.7-zip.org/download.html). If your system is 64-bit x64, you can download the exe installer from (https://www.7-zip.org/a/7z1900-x64.exe)
   - You are also recommended to download the text editor Notepad++ from (https://notepad-plus-plus.org/downloads/)
@@ -32,10 +32,10 @@ To run Apache Kafka on a windows OS, you will need to download , install, and se
   The following is a list of my downloads.
  
  ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_downloads_chunren_lai_2020.png)
-## 3. Install the 7zip and Notepad plus plus
+## Step 3. Install the 7zip and Notepad plus plus
 You can directly run the executable installer (e.g., "7z1900-x64.exe" and "npp.7.8.8.Installer.x64.exe")
 
-## 4. Install the Java Runtime
+## Step 4. Install the Java Runtime
 You can run the JRE installer (e.g., "jre-8u271-windows-x64.exe"), and install the Java in its default installation folder (e.g., "C:\Program Files\Java\jre1.8.0_271").
 After the installation, you need to set up:
 - Environment variable for JAVA_HOME
@@ -59,7 +59,7 @@ After the installation, you need to set up:
 
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/java_home_bin_chunren_lai_2020.png)
 
-## 5. Install ZooKeeper
+## Step 5. Install ZooKeeper
 - Use 7zip to unzip the ZooKeepr's installation file (e.g., "apache-zookeeper-3.6.2-bin.tar.gz"). You will need to unzip it twice to get the original files.
   ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_unzip_chunren_lai_2020.png)
 - After you fully unzip it, you will have a folder like:
@@ -95,7 +95,7 @@ cd c:\zookeeper-3.6.2\bin
 ![N|Solid](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/zookeeper_running_chunren_lai_2020.png)
 
 
-## 6. Install and Set up Kafka
+## Step 6. Install and Set up Kafka
 - Use 7zip to unzip the Kafka's installation file (e.g., "kafka_2.13-2.7.0.tgz"). You will need to unzip it twice to get the original files.
 - After you fully unzip it, you will have a folder like:
 C:\temp\KafkaDownloads\kafka_2.13-2.6.0\kafka_2.13-2.6.0\kafka_2.13-2.6.0

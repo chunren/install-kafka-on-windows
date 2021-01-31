@@ -2,7 +2,7 @@
 
 # How To Set Up Apache Kafka on Window 10
 
-### [By Chunren Lai](https://github.com/chunren), Dec. 12, 2020
+### By [Chunren Lai](https://github.com/chunren), Dec. 12, 2020
 
 This article lists steps to install and run Apache Kafka on Windows 10.
 

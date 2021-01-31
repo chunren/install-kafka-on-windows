@@ -158,4 +158,5 @@ In the producer command window "P":
 In the consumer command window "C":
 ![consumer window](https://raw.githubusercontent.com/chunren/markdown-src/master/raw/images/kafka_consumer_window_chunren_lai_2020.png)
 
-#### Congratulations! You have successfully set up Apache Kafka on your Windows 10.
+**Congratulations!** You have successfully set up **Apache Kafka** on your Windows 10.
+
